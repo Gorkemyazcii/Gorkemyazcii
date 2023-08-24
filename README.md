@@ -1,7 +1,9 @@
 # 💫 About Me:
 Hello, I'm Görkem 👋🏻<br><br>🔭Researcher<br>🫱🏽‍🫲🏽Compatible<br>👻Fun<br>🤓Hard working<br><br>
 
+## 🧬 Languages:
 
+[![Languages](https://skillicons.dev/icons?i=html,css,js,py,cs)](https://skillicons.dev)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gorkemyazcii)
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/819664166616956951)
