@@ -3,7 +3,7 @@ Hello, I'm Görkem 👋🏻<br><br>🔭Researcher<br>🫱🏽‍🫲🏽Compatib
 
 ## 🧬 Languages:
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,py,cs)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/default.asp)
 
 
 # 💻 Tech Stack:
