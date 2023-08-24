@@ -5,7 +5,7 @@ Hello, I'm Görkem 👋🏻<br><br>🔭Researcher<br>🫱🏽‍🫲🏽Compatib
 
 [![Languages](https://skillicons.dev/icons?i=html,css,js,py,cs)](https://skillicons.dev)
 ## 🌐 Socials:
-/
+\
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gorkemyazcii)
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/819664166616956951)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gorkem-yazici-204527272/)
