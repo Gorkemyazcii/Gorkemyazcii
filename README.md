@@ -47,7 +47,7 @@ Hello, I'm Görkem 👋🏻<br><br>🔭Researcher<br>🫱🏽‍🫲🏽Compatib
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gorkemyazcii)
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/819664166616956951)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gorkem-yazici/)
-[Doga](https://dogaabprojeleri.com/)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mr.Gorkemli&icon=0&color=0)](https://visitcount.itsvg.in)
